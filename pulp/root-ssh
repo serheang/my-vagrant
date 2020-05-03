@@ -1,0 +1,11 @@
+Host testbox-pulp
+  HostName 127.0.0.1
+  User vagrant
+  Port 2200
+  UserKnownHostsFile /dev/null
+  StrictHostKeyChecking no
+  PasswordAuthentication no
+  IdentityFile /cygdrive/c/Users/SERHEA~1/MOBAXT~1/slash/home/SERHEA~1/github/my-vagrant/pulp/.vagrant/machines/testbox-pulp/virtualbox/private_key
+  IdentitiesOnly yes
+  LogLevel FATAL
+
