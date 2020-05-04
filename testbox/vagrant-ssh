@@ -5,7 +5,7 @@ Host testbox
   UserKnownHostsFile /dev/null
   StrictHostKeyChecking no
   PasswordAuthentication no
-  IdentityFile /cygdrive/c/Users/SERHEA~1/MOBAXT~1/slash/home/SERHEA~1/github/vagrant/.vagrant/machines/testbox/virtualbox/private_key
+  IdentityFile /cygdrive/c/Users/SERHEA~1/MOBAXT~1/slash/home/SERHEA~1/github/my-vagrant/testbox/.vagrant/machines/testbox/virtualbox/private_key
   IdentitiesOnly yes
   LogLevel FATAL
 
