@@ -1,0 +1,284 @@
+sudo apt-get update
+sudo apt-get upgrade
+apt-get install xfce
+sudo apt-get install xfce
+sudo apt-cache
+sudo apt-get install xubuntu-desktop
+git clone git://github.com/mininet/mininet
+mininet/util/install.sh -a
+LS
+ls
+mininet/util/install.sh -wyf
+git clone git://github.com/faucetsdn/faucet
+pip3 install git+https://github.com/faucetsdn/faucet.git
+apt-get install python-dev python3-pip
+sudo apt-get install python-dev python3-pip
+pip3 install setuptools
+pip3 install wheel
+pip3 install git+https://github.com/faucetsdn/faucet.git
+sudo showdown -r now
+sudo shutdown -r now
+sudo mn
+sudo mn -s
+sudo mn -c
+ryu-manager 
+ps
+top
+faucet --verbose
+faucet --help
+clear
+ls
+cd ryu/
+ls
+./run_tests.sh 
+cd
+ls
+mn -h
+ls
+cd mininet/
+ls
+cd examples/
+ls
+nano README.md 
+cd test/
+ls
+cd ..
+ls
+nano controlnet.py 
+cd ..
+ls
+cd doc/
+ls
+cd ../
+cd custom/
+ls
+nano README 
+ls
+nano topo-2sw-2host.py 
+ls
+nano README 
+cd
+ls
+sudo apt-get update
+sudo apt-get install virtualbox-guest-dkms
+shutdown -r now
+sudo apt-get install virtualbox-guest-utils
+sudo apt-get install virtualbox-guest-x11
+shutdown -r now
+mn --custum custom_example.py --topo mytopo
+cd mininet/
+exit
+ls
+ifconfig
+ls
+cd mininet/ls
+cd mininet
+ls
+cd custom/
+ls
+nano README 
+ls
+cp topo-2sw-2host.py topo-2sw-2host_Mehran.py
+mv topo-2sw-2host_Mehran.py topo-Xsw-Xhost_Mehran.py
+ls
+nano topo-Xsw-Xhost_Mehran.py 
+ls
+nano topo-Xsw-Xhost_Mehran.py 
+top
+ps -aux
+clear
+cd
+ps -aux | grep mininet
+ps -aux
+clear
+ps -aux | grep mininet
+ip a
+ifconfig
+show ns
+ip link
+ip
+ip a
+ifconfig -a
+ip
+ip route
+ip netns
+ps -aux | grep mininet
+ip netns
+ip netns 
+ip 
+ip netns 
+ls /var/run/netns
+ls /var/run/netns/
+ls /var/run/
+ip netns add green
+exit
+ip netns
+ip netns list
+iperf -s -p 5566 -i 1
+clear
+iperf -s -u -p 5566 -i 1
+clear
+iperf -s -u -p 5566 -i 1
+clear
+iperf -s -u -p 5566 -i 1
+iperf -c 10.0.0.1 -p 5566 -t 15
+clear
+iperf -c 10.0.0.1 -u -b 100M -p 5566 -t 15
+iperf -c 10.0.0.1 -u -b 1M -p 5566 -t 15
+iperf -c 10.0.0.1 -u -b 1G -p 5566 -t 15
+clear
+iperf -c 10.0.0.1 -u -b 1G -p 5566 -t 15
+clear
+iperf -c 10.0.0.1 -u -b 1G -p 5566 -t 5
+ifconfig
+traceroute S20
+ping S20
+ping h1
+ifconfig
+ping 10.0.0.2
+ping 10.0.0.3
+ifonfig
+ifocnfig
+ifconfig
+ping 10.0.0.3
+ping 10.0.0.1
+ping 10.0.0.4
+ping 10.0.0.2
+ping 10.0.0.3
+ifconfig
+pycharm
+babel
+olsrd
+ol
+exit
+wireshark
+babeld
+babel
+batmand
+ifconfig
+batmand h1-eth0
+top
+ps -aux | grep batmand
+ps a-ux
+ps -aux
+ifconfig
+ifconfig eth0
+ifconfig
+ovs-vsctl set Bridge s1 protocols=OpenFlow13
+ovs-vsctl set Bridge protocols=OpenFlow13
+ovs-vsctl set Bridge s2 protocols=OpenFlow13
+ovs-vsctl set Bridge s3 Protocols=OpenFlow13
+ovs-vsctl set Bridge S4 protocols=OpenFlow13
+ovs-vsctl set Bridge s4 protocols=OpenFlow13
+ovs-vsctl set Bridge s5 protocols=OpenFlow13
+ovs-vsctl set Bridge s6 protocols=OpenFlow13
+tcpdump -i s1-eth1 arp
+cd
+cd ryu/
+ls
+cd ryu/app/
+ls
+ryu-manager --verbose simple_switch_stp_13.py 
+cd
+cd ryu/ryu/app/
+ls
+ryu-manager --verbose simple_switch_stp_13.py
+ryu-manager --verbose simple_switch_stp.py
+ryu-manager --verbose simple_switch_stp_13.py
+cd 
+cd ryu/ryu/app/
+ls
+ryu-manager --verbose simple_switch_stp_13.py
+cd
+cd ryu/ryu/app/
+ryu-manager --verbose simple_switch_stp_13.py
+ryu --observe-links ryu/ryu/app/gui_topology/gui_topology.py 
+ryu run --observe-links ryu/ryu/app/gui_topology/gui_topology.py 
+ls
+cd Mehran_Scripts/
+ls
+cd Pycharm/
+ls
+python Mesh_Topo_Ex1.py 
+mn -c
+python Mesh_Topo_Ex1.py 
+sudo python Mesh_Topo_Ex1.py 
+mn -c
+ls
+sudo python STP_Pkt_topo.py 
+mn -c
+sudo python Mesh_Topo_Ex1.py 
+mn -c
+sudo python Mesh_Topo_Ex1_v2.py 
+mn -c
+sudo python Mesh_Topo_Ex1_v2.py 
+sudo python STP_Pkt_topo.py 
+sudo python Mesh_Topo_Ex1_v2.py 
+mn -c
+sudo python Mesh_Topo_Ex1_v2.py 
+sudo python STP_Pkt_topo.py 
+ls
+sudo python Mesh_Topo_Ex1.py
+sudo python Mesh_Topo_Ex1_v2.py 
+mn -c
+sudo python Mesh_Topo_Ex1.py
+sudo python Mesh_Topo_Ex1_v2.py 
+sudo python Mesh_Topo_Ex1.py
+sudo python Mesh_Topo_Ex1_v2.py 
+mn -c
+sudo python Mesh_Topo_Ex1_v2.py 
+ovs-vswitchd --version
+sudo python Mesh_Topo_Ex1_v2.py 
+clear
+sudo python Mesh_Topo_Ex1_v2.py 
+clear
+sudo python Mesh_Topo_Ex1_v2.py 
+mn -c
+ls
+sudo python First_Topo_Ex2.py 
+sudo python Mesh_Topo_Ex1_v2.py 
+sudo python First_Topo_Ex2.py 
+ls
+mn -c
+sudo python First_Topo_Ex2.py 
+su mininet
+sudo ovs-ofctl dump-flows s1
+su mininet
+clear
+ovs-ofctl dump-flows
+ovs-ofctl dump-flows s2
+h1 ping h3
+ping h3
+ovs-ofctl dump-flows s2
+ovs-ofctl dumpflow s1
+ovs-ofctl dump-flow s1
+ovs-ofctl dump-flows s1
+clear
+ovs-ofctl dump-flows s1
+cd ryu/
+ls
+cd ryu/app/
+ls
+ryu-manager --verbose simple_switch_stp_13.py
+ryu-manager --verbose simple_switch_stp.py
+ryu-manager --verbose simple_switch_stp_13.py
+clear
+ryu-manager --verbose simple_switch_stp_13.py
+cd
+cd mininet/
+ls
+sudo examples/miniedit.py 
+mn -c
+sudo mn -c
+sudo examples/miniedit.py 
+mn -c
+ps -aux
+sudo examples/miniedit.py 
+tcpdump
+wireshark &
+tcpdump
+clear
+tcpdump
+putty
+sudo apt-get install putty
+putty
